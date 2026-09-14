@@ -1,1 +1,1 @@
-# Y2ScriptingSEM1
+# scripting-for-cybersecurity
