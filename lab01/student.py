@@ -6,6 +6,6 @@ year = input("What year are you in?")
 
 print("Name: " + name)
 
-print("Student ID: " + studentid +"!")
+print("Student ID: " + studentid )
 
 print("Year: " + year)
