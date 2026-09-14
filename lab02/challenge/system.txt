@@ -1,0 +1,3 @@
+codespaces-dae577
+/bin/bash
+/home/codespace

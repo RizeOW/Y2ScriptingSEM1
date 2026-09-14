@@ -1,0 +1,36 @@
+total 44
+drwxrwxrwx+ 8 codespace codespace 4096 Sep 14 15:12 .
+drwxrwxrwx+ 5 codespace root      4096 Sep 14 14:39 ..
+-rw-rw-rw-  1 codespace codespace    0 Sep 14 15:15 bash
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 evidence
+-rw-rw-rw-  1 codespace codespace    0 Sep 14 14:41 file1.txt
+-rw-rw-rw-  1 codespace codespace    0 Sep 14 14:41 file2.txt
+-rw-rw-rw-  1 codespace codespace    0 Sep 14 14:41 file3.txt
+-rw-rw-rw-  1 codespace codespace  994 Sep 14 15:12 investigation.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:42 logs
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 notes
+-rw-rw-rw-  1 codespace codespace   51 Sep 14 14:43 notes.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 reports
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 scripts
+-rw-rw-rw-  1 codespace codespace   91 Sep 14 14:47 system.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 temp
+/workspaces/Y2ScriptingSEM1/lab02
+/workspaces/Y2ScriptingSEM1/lab02
+total 52
+drwxrwxrwx+ 9 codespace codespace 4096 Sep 14 15:20 .
+drwxrwxrwx+ 5 codespace root      4096 Sep 14 14:39 ..
+-rw-rw-rw-  1 codespace codespace  977 Sep 14 15:19 bash
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 15:21 challenge
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 evidence
+-rw-rw-rw-  1 codespace codespace    0 Sep 14 14:41 file1.txt
+-rw-rw-rw-  1 codespace codespace    0 Sep 14 14:41 file2.txt
+-rw-rw-rw-  1 codespace codespace    0 Sep 14 14:41 file3.txt
+-rw-rw-rw-  1 codespace codespace  143 Sep 14 15:16 investigation.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:42 logs
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 notes
+-rw-rw-rw-  1 codespace codespace   51 Sep 14 14:43 notes.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 reports
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 scripts
+-rw-rw-rw-  1 codespace codespace   91 Sep 14 14:47 system.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep 14 14:40 temp
+/workspaces/Y2ScriptingSEM1/lab02

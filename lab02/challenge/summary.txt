@@ -1,0 +1,5 @@
+Cybersecurity CLI Report
+User: dillon
+Host: codespaces
+Directory:
+/workspaces/Y2ScriptingSEM1/lab02/challenge

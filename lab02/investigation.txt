@@ -1,0 +1,11 @@
+codespace
+codespaces-dae577
+/workspaces/Y2ScriptingSEM1/lab02
+/home/codespace
+/home/codespace/.python/current/bin/python3
+/usr/bin/bash
+92
+7
+
+
+
