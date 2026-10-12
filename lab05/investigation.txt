@@ -1,0 +1,13 @@
+Investigation Report
+
+Differences between the reports
+
+The Lab 4 report lists 24 files, while the automated report lists 23. I would use find case -type f | wc -l to verify the correct count. The reports also differ in how they display files containing admin: Lab 4 shows a count of 32, while the automated report lists five matching files.
+
+Replacing the case collection
+
+I would update the CASE_DIR variable if the directory changed, then rerun the script. With the Lab 4 approach, I would need to repeat the commands and rebuild the report manually, increasing the chance of mistakes.
+
+Information about suspicious.dat
+
+The file command identifies suspicious.dat as `ELF, unknown class 154. This suggests it has an executable-file format, despite its .dat extension. The unusual class value makes it worth investigating further.
